@@ -8,7 +8,7 @@ Here is an identity function:
 
 ```rzk
 #define identity
-    ( A : U)
-    : A → A
-    := \ x → x
+  ( A : U)
+  : A → A
+  := \ x → x
 ```
